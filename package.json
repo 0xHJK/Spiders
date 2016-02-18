@@ -1,0 +1,28 @@
+{
+  "name": "node-spiders",
+  "version": "1.0.0",
+  "description": "common spiders by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xHJK/Spiders.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spiders"
+  ],
+  "author": "HJK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xHJK/Spiders/issues"
+  },
+  "homepage": "https://github.com/0xHJK/Spiders#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "fs": "0.0.2",
+    "request": "^2.69.0"
+  }
+}
